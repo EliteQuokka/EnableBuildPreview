@@ -1,0 +1,5 @@
+H:\C#\EnableBuildPreview\EnableBuildPreview\bin\Release\EnableBuildPreview.exe.config
+H:\C#\EnableBuildPreview\EnableBuildPreview\bin\Release\EnableBuildPreview.exe
+H:\C#\EnableBuildPreview\EnableBuildPreview\bin\Release\EnableBuildPreview.pdb
+H:\C#\EnableBuildPreview\EnableBuildPreview\obj\Release\EnableBuildPreview.exe
+H:\C#\EnableBuildPreview\EnableBuildPreview\obj\Release\EnableBuildPreview.pdb

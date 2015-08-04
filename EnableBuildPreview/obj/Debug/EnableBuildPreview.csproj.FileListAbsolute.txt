@@ -1,0 +1,6 @@
+H:\C#\EnableBuildPreview\EnableBuildPreview\bin\Debug\EnableBuildPreview.exe.config
+H:\C#\EnableBuildPreview\EnableBuildPreview\bin\Debug\EnableBuildPreview.exe
+H:\C#\EnableBuildPreview\EnableBuildPreview\bin\Debug\EnableBuildPreview.pdb
+H:\C#\EnableBuildPreview\EnableBuildPreview\obj\Debug\EnableBuildPreview.csprojResolveAssemblyReference.cache
+H:\C#\EnableBuildPreview\EnableBuildPreview\obj\Debug\EnableBuildPreview.exe
+H:\C#\EnableBuildPreview\EnableBuildPreview\obj\Debug\EnableBuildPreview.pdb
